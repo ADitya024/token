@@ -1,0 +1,23 @@
+{
+  "name": "token",
+  "version": "1.0.0",
+  "description": "this a logic layer for token app and communication between etherium node and application layer",
+  "main": "server.js",
+  "scripts": {
+    "test": "veronica"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADitya024/token.git"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADitya024/token/issues"
+  },
+  "homepage": "https://github.com/ADitya024/token#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "web3": "^1.0.0-beta.33"
+  }
+}
