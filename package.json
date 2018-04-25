@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/ADitya024/token#readme",
   "dependencies": {
+    "circular-json": "^0.5.3",
     "express": "^4.16.3",
-    "web3": "^1.0.0-beta.33"
+    "fs": "0.0.1-security",
+    "mongoose": "^5.0.13",
+    "solc": "^0.4.22",
+    "utill": "^0.1.3",
+    "web3": "^1.0.0-beta.34"
   }
 }
